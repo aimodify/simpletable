@@ -1,4 +1,8 @@
 {
     "name": "aimodify/simpletable",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {"Bissdata\\SimpleTable\\": "src/Bissdata/SimpleTable/"}
+    }
+
 }
